@@ -1,0 +1,108 @@
+---
+{"dg-publish":true,"permalink":"/morfo-iii/unidad-iii-sistema-endocrino-y-reproductor/tema-34-2-eje-hipotalamo-hipofisis-tiroides.canvas/","contentClasses":"canvas-page","dg-note-properties":{}}
+---
+
+<div id="Tema_342_-_Eje_Hipotalamo-Hipofisis-Tiroides.canvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Tema_342_-_Eje_Hipotalamo-Hipofisis-Tiroides.canvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Tema_342_-_Eje_Hipotalamo-Hipofisis-Tiroides.canvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+<marker id="arrow-fb464c" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="#fb464c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-fb464c-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="#fb464c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -30 -60 C -30 -10, -30 -30, -30 20" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1e2fc3d3f8c0db7f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -30 80 C -30 130, -30 110, -30 160" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="cd62ed0cf2bd4504"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -30 220 C -30 270, -30 230, -30 280" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="e863159cc87e63ec"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -30 340 C -30 390, -30 350, -30 400" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6163f12f98a1846c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -30 460 C -30 535.4718490564528, -190 484.5281509435472, -190 560" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9c20c86a3e83c3f4"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -30 460 C -30 542.365041127896, 150 477.634958872104, 150 560" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="fdb3852f0b1919cd"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 100 430 C 196 430, 196 190, 100 190" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="de5c5c1ac516d7b0"  marker-end="url(#arrow-fb464c)" /><text x="172" y="310" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="#fb464c">Retroalimentación Negativa</text>
+<path d="M 100 430 C 308 430, 308 -90, 100 -90" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="9bdc0cd580b91bb2"  marker-end="url(#arrow-fb464c)" />
+<path d="M 100 -90 C 157.27128425310542 -90, 182.72871574689458 -120, 240 -120" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="71c31218948e9cc7"  marker-end="url(#arrow-fb464c)" />
+<path d="M 100 190 C 157.27128425310542 190, 182.72871574689458 160, 240 160" fill="none" stroke="#fb464c" stroke-width="2" class="canvas-edge" data-edge-id="9fe4c1c6fa086cb4"  marker-end="url(#arrow-fb464c)" />
+		</svg>
+		<div class="canvas-node canvas-node-text has-color" data-node-id="2b607080ebbc3be8" style="transform: translate(-160px, -120px); width: 260px; height: 60px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="SGlwb3RhbGFtbw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="0b9ebd460f2e2e3d" style="transform: translate(-160px, 400px); width: 260px; height: 60px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VGlyb2lkZXM="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="bc2f399d26165471" style="transform: translate(-160px, 160px); width: 260px; height: 60px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="SGlww7NmaXNpcw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="36267e2c33969998" style="transform: translate(-70px, 20px); width: 80px; height: 60px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VFJI"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="e81635e45944e1f2" style="transform: translate(-70px, 280px); width: 80px; height: 60px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VFNI"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="f3f7d51ba61382fd" style="transform: translate(20px, 560px); width: 260px; height: 60px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VDQ="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="e1c8eb6bd0781b91" style="transform: translate(-320px, 560px); width: 260px; height: 60px; --canvas-color: #e0de71;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VDM="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="cb22bca20127adb9" style="transform: translate(240px, 130px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="SGlwb2Zpc2lzIGRlamEgZGUgc2VjcmV0YXIgVFNI"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="5f26fd2a65f7edcd" style="transform: translate(240px, -150px); width: 260px; height: 60px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="SGlwb3RhbGFtbyBkZWphIGRlIHNlY3JldGFyIFRSSA=="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
