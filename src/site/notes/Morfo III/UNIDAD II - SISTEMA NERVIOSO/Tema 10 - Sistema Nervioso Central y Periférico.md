@@ -4,7 +4,7 @@
 
 # 10 - Sistema Nervioso Central y Periférico: Generalidades, Neuroglía y Divisiones
 
-El sistema nervioso es una red compleja que permite al organismo interactuar con su entorno y regular funciones internas. Se divide anatómica y funcionalmente.
+||El sistema nervioso es una red compleja que permite al organismo interactuar con su entorno y regular funciones internas. Se divide anatómica y funcionalmente.
 
 ## Divisiones del Sistema Nervioso
 
