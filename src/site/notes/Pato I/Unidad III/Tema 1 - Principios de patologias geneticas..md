@@ -27,7 +27,7 @@ Una misma mutación puede tener manifestaciones clinicas muy diferentes en disti
 - Expresividad variable: Intensidad o grado con que se manifiesta el fenotipo en individuos con la misma mutación
 - Pleiotropismo: Cuando la mutación de un gen solo genera efectos fenotipicos en organos y sistemas aparentemente no relacionados. Por ejemplo, el sindrome de Marfan, causado por mutaciones del gen de la fibrilina-1. Provoca simultaneamente alteraciones equeleticas, aneurismas aoritocs, hiperlaxitud y luxacion del cristalino del ojo
 - Heterogeneidad: Cuando cuadros clinicos identicos son provocados por defectos en genes distintos o por diferentes mutaciones en el mismo gen.
-![[Pasted image 20261007090319.png\|Pasted image 20261007090319.png]]
+![Pasted image 20261007090319.png](/img/user/99_ADJUNTOS/Pasted%20image%2020261007090319.png)
 # Patrones de herencia
 Las patologias monogénicas se rigen por las leyes clasicas de Mendel y se dividen segun si el gen afectado reside en un autosoma o en un cromosoma sexual o según si el alelo alterado es dominante o recesivo.
 - Herencia autosomica dominante: Cuando la presencia de una sola copia de alelo mutado basta para expresar la enfermedad

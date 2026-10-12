@@ -19,7 +19,7 @@ Una diferencia clave en la naturaleza de la perdida de liquidos es en la perdida
 La morfologia de un edema consiste en
 * A nivel macro: Los organos edematizados palidecen, aumentando peso y tamaño. Al corte escurren liquido seroso. En el tejido subcutaneo la presión focalizada deja una depresión visible denominada signo de la fóvea. Por efecto de la gravedad. el edema se acumula en las extremidades inferiores o en la región sacra.
 * A nivel micro: Se aprecia una hinchazón celular, citoplasma claro y separación de las fibras en la MEC.
-![[Pasted image 20261004233025.png\|Pasted image 20261004233025.png]]
+![Pasted image 20261004233025.png](/img/user/99_ADJUNTOS/Pasted%20image%2020261004233025.png)
 # <mark style="background: #FF5582A6;">Hiperemia</mark> y <mark style="background: #ABF7F7A6;">Congestión</mark>
 La hiperemia y la congestión representan un aumento del volumen local de sangre en un tejido. Pero tienen mecanismos fisiopatologicos y aspectos morfologicos muy diferentes.
 Mientras que la hiperemia es el aumento de la llegada de sangre (ya sea fisiologica o patologica) causada por una dilatación arteriolar debido a impulsos neurógenos. En esta. el Ttejido afectado adquiere un color rojo brillante (Eritema) por acumulación de sangre oxigenada. La congestión, por otra parte, se produce por una reducción en la salida de sangre. Ya sea por obstrucción local o insuficiencia sistemica. Los tejidos congestionados adquierne una coloración rojo-azulada (Cianosis) debido a la estasis sanguínea y la acumulación de desoxihemoglobina.
