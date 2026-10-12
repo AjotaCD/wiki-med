@@ -28,6 +28,11 @@ Cuando los mecanismos fallan, se producen alteraciones del pH que clasificamos e
 | Descenso del pH por debajo de 7.24 por una caida en la concentración de bicarbonato.    | Descenso del pH por una elevación de dióxido de carbono. Generalmente por hipoventilación alveolar | Aumento del pH por un exceso de bicarbonato o perdida de hidrogeniones | Se produce un aumento del pH por una caida de pCO2, como consecuencia de hiperventilación alveolar |
 | Causado por acumulación de acidos volatiles y perdida severa de bicarbonato por diarrea | Causado por EPOC, edema, osbtrucción de la via o debilidad en los musculos respiratorios           | Causado por vomitos o succión gastrica                                 | Causada por dolor, fiebre, ansiedad, sepsis por bacterias e hipoxia                                |
 | El cuerpo compensa con respiración profunda y rapida (Kussmaul)                         | Los riñones compenan aumentando la reabsorción y producción de bicarbonato                         | Compensación por hipoventilación para retener el CO2                   | Compensación por desplazamiento de hidrogeniones del espacio intracelular.                         |
+|                                                                                         |                                                                                                    |                                                                        |                                                                                                    |
+
+
+
+--- 
 ![Pasted image 20260929232630.png](/img/user/99_ADJUNTOS/Pasted%20image%2020260929232630.png)
 Para evaluar de forma integra el estado de salud del paciente es necesario comprender si el trastorno está compensado o descompensado.
 - Compensación: Es el proceso donde el sistema que no está originalmente afectado trabaja para contrarrestar la anomalía primaria. Por ejemplo, en una falla metabolica, el sistema respiratorio compensa con hiperventilación, y en una falla respiratoria, compensa el riñón. Se considera que está compensado si se logra devolver el pH al rango optimo aunque los niveles de bicarbonato o presión de co2 se mantengan alterados
